@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/rsc">
+        <file>imgs/main.png</file>
+        <file>imgs/backgimg.jfif</file>
+        <file>imgs/walk.png</file>
+        <file>imgs/award.png</file>
+        <file>imgs/mainimg.jpg</file>
+        <file>imgs/doneImg.jpg</file>
+        <file>imgs/checked.png</file>
+    </qresource>
+    <qresource prefix="/menubar">
+        <file>imgs/calendar.svg</file>
+        <file>imgs/progress.svg</file>
+        <file>imgs/today.svg</file>
+        <file>imgs/roadmap.svg</file>
+    </qresource>
+</RCC>
